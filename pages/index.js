@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-   <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <div class="container">
   <div class="loader">
@@ -14,6 +14,7 @@ export default function Home() {
       <i class="fas fa-cloud" style="--i:1"></i>
       <i class="fas fa-cloud" style="--i:2"></i>
       <i class="fas fa-cloud" style="--i:3"></i>
+
     </div>
     <span>
       <i></i>
@@ -141,9 +142,7 @@ export default function Home() {
 }
 
 </style>
-
-
-
+</html>
 
   )
 }
